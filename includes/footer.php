@@ -1,7 +1,7 @@
 
 
 
-</body>
+
 <style type="text/css">
   footer {
   position: absolute;
@@ -43,6 +43,6 @@
   </div>
 </footer>
 
-
+</body>
 
 </html>
